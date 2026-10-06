@@ -1,0 +1,182 @@
+[
+  {
+    "author_id": "AUTH000",
+    "email": "admin@bookleaf.com",
+    "name": "BookLeaf Admin",
+    "role": "admin",
+    "password": "admin123",
+    "phone": "+91-99999-00000",
+    "city": "Mumbai",
+    "joined_date": "2021-01-01"
+  },
+  {
+    "author_id": "AUTH001",
+    "email": "kavita@example.com",
+    "name": "Kavita Sharma",
+    "role": "author",
+    "password": "kavita123",
+    "phone": "+91-98765-43210",
+    "city": "Nagpur",
+    "joined_date": "2022-03-15"
+  },
+  {
+    "author_id": "AUTH002",
+    "email": "rohit.kapoor@email.com",
+    "name": "Rohit Kapoor",
+    "role": "author",
+    "password": "rohit123",
+    "phone": "+91-87654-32109",
+    "city": "Delhi",
+    "joined_date": "2022-11-08"
+  },
+  {
+    "author_id": "AUTH003",
+    "email": "arjun@example.com",
+    "name": "Arjun Mehta",
+    "role": "author",
+    "password": "arjun123",
+    "phone": "+91-91234-56789",
+    "city": "Pune",
+    "joined_date": "2023-01-10"
+  },
+  {
+    "author_id": "AUTH004",
+    "email": "ananya@example.com",
+    "name": "Ananya Roy",
+    "role": "author",
+    "password": "ananya123",
+    "phone": "+91-92345-67890",
+    "city": "Kolkata",
+    "joined_date": "2023-05-20"
+  },
+  {
+    "author_id": "AUTH005",
+    "email": "priya@example.com",
+    "name": "Priya Nair",
+    "role": "author",
+    "password": "priya123",
+    "phone": "+91-93456-78901",
+    "city": "Kochi",
+    "joined_date": "2023-08-12"
+  },
+  {
+    "author_id": "AUTH006",
+    "email": "rajesh@example.com",
+    "name": "Rajesh Kumar",
+    "role": "author",
+    "password": "rajesh123",
+    "phone": "+91-94567-89012",
+    "city": "Bangalore",
+    "joined_date": "2023-10-05"
+  },
+  {
+    "author_id": "AUTH007",
+    "email": "meera@example.com",
+    "name": "Meera Sen",
+    "role": "author",
+    "password": "meera123",
+    "phone": "+91-95678-90123",
+    "city": "Jaipur",
+    "joined_date": "2024-02-14"
+  },
+  {
+    "author_id": "AUTH008",
+    "email": "vikram@example.com",
+    "name": "Vikram Singh",
+    "role": "author",
+    "password": "vikram123",
+    "phone": "+91-96789-01234",
+    "city": "Chandigarh",
+    "joined_date": "2024-04-18"
+  },
+  {
+    "author_id": "AUTH009",
+    "email": "sneha@example.com",
+    "name": "Sneha Patel",
+    "role": "author",
+    "password": "sneha123",
+    "phone": "+91-97890-12345",
+    "city": "Ahmedabad",
+    "joined_date": "2024-06-25"
+  },
+  {
+    "author_id": "AUTH010",
+    "email": "rohan@example.com",
+    "name": "Rohan Deshmukh",
+    "role": "author",
+    "password": "rohan123",
+    "phone": "+91-98901-23456",
+    "city": "Mumbai",
+    "joined_date": "2024-09-01"
+  },
+  {
+    "author_id": "AUTH011",
+    "email": "author@example.com",
+    "name": "General Author",
+    "role": "author",
+    "password": "author123",
+    "phone": "+91-98765-00000",
+    "city": "Hyderabad",
+    "joined_date": "2022-01-15"
+  },
+  {
+    "author_id": "AUTH012",
+    "email": "siddharth.verma@example.com",
+    "name": "Siddharth Verma",
+    "role": "author",
+    "password": "siddharth123",
+    "phone": "+91-98112-34567",
+    "city": "Lucknow",
+    "joined_date": "2024-11-12"
+  },
+  {
+    "author_id": "AUTH013",
+    "email": "pooja.hegde@example.com",
+    "name": "Pooja Hegde",
+    "role": "author",
+    "password": "pooja123",
+    "phone": "+91-97223-45678",
+    "city": "Mangalore",
+    "joined_date": "2025-01-05"
+  },
+  {
+    "author_id": "AUTH014",
+    "email": "amitabh.chatterjee@example.com",
+    "name": "Amitabh Chatterjee",
+    "role": "author",
+    "password": "amitabh123",
+    "phone": "+91-96334-56789",
+    "city": "Darjeeling",
+    "joined_date": "2025-02-18"
+  },
+  {
+    "author_id": "AUTH015",
+    "email": "neha.sharma@example.com",
+    "name": "Neha Sharma",
+    "role": "author",
+    "password": "neha123",
+    "phone": "+91-95445-67890",
+    "city": "Shimla",
+    "joined_date": "2025-04-10"
+  },
+  {
+    "author_id": "AUTH016",
+    "email": "tariq.mansoor@example.com",
+    "name": "Tariq Mansoor",
+    "role": "author",
+    "password": "tariq123",
+    "phone": "+91-94556-78901",
+    "city": "Srinagar",
+    "joined_date": "2025-06-22"
+  },
+  {
+    "author_id": "AUTH017",
+    "email": "divya.krishnan@example.com",
+    "name": "Divya Krishnan",
+    "role": "author",
+    "password": "divya123",
+    "phone": "+91-93667-89012",
+    "city": "Chennai",
+    "joined_date": "2025-08-30"
+  }
+]
